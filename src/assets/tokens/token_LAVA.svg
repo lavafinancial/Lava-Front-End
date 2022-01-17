@@ -1,0 +1,11 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<title>token_sLAVA-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #fd683b } 
+	</style>
+	<g id="Layer">
+	</g>
+	<path id="Layer" class="s0" d="m-463.1-455.88l17.89 37.3l-1.47 4.91l-10.49-14.33l-4.09 5.86l-10.58-13.35l8.75-20.4zm-26.02 19.67l6.53 7.15l3.83-7.67l5.13 2.23l12.47 15.72l4.03-5.77l11.21 15.32l2.67-8.9l2.42-2.49l10.51 22.49h-75.36l16.56-38.08z" />
+	<path id="Layer" class="s0" d="m18.09-0.01l7.49 20.64l-0.64 2.71l-4.41-7.94l-1.75 3.23l-4.46-7.4l3.77-11.24zm-11.1 10.79l2.75 3.96l1.65-4.22l2.17 1.24l5.25 8.71l1.73-3.18l4.72 8.49l1.16-4.91l1.04-1.37l4.4 12.45l-32-0.2l7.14-20.98z" />
+</svg>
