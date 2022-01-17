@@ -1,2 +1,2 @@
-# LAVA DAO
- Frontend of LAVA DAO
+# LAVA Frontend
+ Frontend of LAVA Financial
